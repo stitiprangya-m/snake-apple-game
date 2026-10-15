@@ -51,8 +51,11 @@ python snake_game.py
 
 Practiced Python fundamentals, loops, conditional statements, functions, keyboard event handling, collision detection, and game logic.
 
-## Author
+## 👩‍💻 Author
 
-Stitiprangya Mohapatra
+**Stitiprangya Mohapatra**
 
-[GitHub Profile](https://github.com/bca-rcm-0016)
+BCA Student | Aspiring Software Developer
+
+- GitHub: [stitiprangya-m](https://github.com/stitiprangya-m)
+- Project: [Snake and Apple Game](https://github.com/stitiprangya-m/snake-apple-game)
